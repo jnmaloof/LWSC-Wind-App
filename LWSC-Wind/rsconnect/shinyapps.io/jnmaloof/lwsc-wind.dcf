@@ -1,0 +1,10 @@
+name: lwsc-wind
+title:
+username: jnmaloof
+account: jnmaloof
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13881518
+bundleId: 9737459
+url: https://jnmaloof.shinyapps.io/lwsc-wind/
+version: 1
